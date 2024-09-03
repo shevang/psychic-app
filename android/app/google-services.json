@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737744379388",
+    "project_id": "psychicapp-a7314",
+    "storage_bucket": "psychicapp-a7314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737744379388:android:f7ac378a9c437c3c492679",
+        "android_client_info": {
+          "package_name": "com.psychicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737744379388-436fou0hojll52ffllb46j2tukgph6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGCaprt_EPZOZhTMEX-HQmECsig135BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737744379388-436fou0hojll52ffllb46j2tukgph6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
